@@ -1,0 +1,4 @@
+FROM emqx/emqx:5.0.25
+
+EXPOSE 1883
+EXPOSE 8083
